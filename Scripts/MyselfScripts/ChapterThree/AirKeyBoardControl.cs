@@ -4,7 +4,7 @@ using System.Collections.Generic;
 
 public class AirKeyBoardControl : KeyBoardControl {
 
-
+    int branch = 0;
 
     void Start() 
     {
