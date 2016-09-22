@@ -5,7 +5,19 @@ public class AirPlane :MonoBehaviour{
 
     public float speed = 50;
 
-    private float rotationz = 0.0f;         //绕Z轴的旋转量
+    private float rotationz = 0.0f;
+    public float Roatatinz 
+    {
+        get 
+        {
+            return rotationz;
+        }
+        protected set 
+        {
+            rotationz = value;
+        }
+    }
+
     public float rotateSpeed_AxisZ = 45f;   //绕Z轴的旋转速度
 
     private StateMachine fsm;
@@ -27,6 +39,7 @@ public class AirPlane :MonoBehaviour{
 
     void FixedUpdate()
     {
+        Roatatinz = this.transform.eulerAngles.z;
         fsm.RuningMachine();
     }
 
@@ -56,13 +69,13 @@ public class AirPlane :MonoBehaviour{
 
     public void TurnRightFly()
     {
-        Debug.Log("TurnRightFly");
+        
         fsm.TransitionStateAction(turnRightState);
     }
 
     public void TurnLeftFly()
     {
-        Debug.Log("TurnLeftFly");
+       
         fsm.TransitionStateAction(turnLeftState);
     }
 }
@@ -81,7 +94,39 @@ public class InitAirState :State
 
     public override void Excute()
     {
+        BackToBlance();
         airPlane.transform.Translate(new Vector3(0, 0, airPlane.speed / 20 * Time.deltaTime));//向前移动
+    }
+
+
+    void BackToBlance()                 //恢复平衡方法
+    {
+
+        if ((airPlane.Roatatinz <= 180 && airPlane.Roatatinz>0))
+        {       //判断如果飞机为右倾状态
+          
+            if (airPlane.Roatatinz - 0 <= 2)
+            {   //在阈值内轻微晃动
+                airPlane.transform.Rotate(0, 0, Time.deltaTime * -1);
+            }
+            else
+            {                      //快速恢复平衡状态
+                airPlane.transform.Rotate(0, 0, Time.deltaTime * -40);
+            }
+        }
+
+        if ((airPlane.Roatatinz > 180 && airPlane.Roatatinz < 360))
+        {        //判断如果飞机为左倾状态
+           
+            if (360 - airPlane.Roatatinz <= 2)
+            { //在阈值内轻微晃动
+                airPlane.transform.Rotate(0, 0, Time.deltaTime * 1);
+            }
+            else
+            {                      //快速恢复平衡状态
+                airPlane.transform.Rotate(0, 0, Time.deltaTime * 40);
+            }
+        }
     }
 }
 
@@ -99,8 +144,10 @@ public class TurnRightState : State
 
     public override void Excute()
     {
-        Debug.Log("TurnRightState");
+        airPlane.transform.Translate(new Vector3(0, 0, airPlane.speed / 20 * Time.deltaTime));//向前移动
+       
         airPlane.transform.Rotate(new Vector3(0, 0, (Time.deltaTime * -airPlane.rotateSpeed_AxisZ)), Space.Self);
+        airPlane.transform.Rotate(new Vector3(0, Time.deltaTime * 30, 0), Space.World);
     }
 }
 
@@ -118,7 +165,8 @@ public class TurnLeftState : State
 
     public override void Excute()
     {
-
+        airPlane.transform.Translate(new Vector3(0, 0, airPlane.speed / 20 * Time.deltaTime));//向前移动
         airPlane.transform.Rotate(new Vector3(0, 0, (Time.deltaTime * airPlane.rotateSpeed_AxisZ)), Space.Self);
+        airPlane.transform.Rotate(new Vector3(0, -Time.deltaTime * 30, 0), Space.World);
     }
 }
