@@ -4,7 +4,7 @@ using System.Collections.Generic;
 
 public class AirKeyBoardControl : KeyBoardControl {
 
-    int branch = 0;
+    public AirPlane airPlane;
 
     void Start() 
     {
@@ -21,8 +21,8 @@ public class AirKeyBoardControl : KeyBoardControl {
 
     protected override void GetAKeyDown()
     {
-        //Debug.Log("GetAKeyDown");
-        //targetControl.Rotate(new Vector3(0, 0, (Time.deltaTime * rotateSpeed_AxisZ)), Space.Self);
+        airPlane.TurnLeftFly();
+
     }
 
     protected override void GetSKeyDown()
@@ -32,7 +32,7 @@ public class AirKeyBoardControl : KeyBoardControl {
 
     protected override void GetDKeyDown()
     {
-        //targetControl.Rotate(new Vector3(0, 0, (Time.deltaTime * -rotateSpeed_AxisZ)), Space.Self);
+        airPlane.TurnRightFly();
     }
 
     protected override void GetWKeyDown()
@@ -42,13 +42,9 @@ public class AirKeyBoardControl : KeyBoardControl {
 
     protected override void NoKeyDown()
     {
-        BackToBalance();
+        airPlane.InitAirFly();
     }
 
 
-    protected void BackToBalance() 
-    {
- 
-    }
 }
 

@@ -66,7 +66,7 @@ public class StateMachine{
         {
             if (CurState != null)
             {
-                CurState.CheckTransition();
+              //  Debug.Log(CurState);
                 CurState.Excute();
             }
         }
@@ -112,6 +112,7 @@ public class StateMachine{
 
     public void TransitionStateAction(State _state)
     {
+
         if (_state ==null)
         {
             Debug.LogError("_state ==null");

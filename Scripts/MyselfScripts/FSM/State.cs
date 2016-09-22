@@ -3,7 +3,7 @@ using System.Collections;
 using System.Collections.Generic;
 using System;
 
-public class State:MonoBehaviour{
+public class State{
 
   //  private Dictionary<int, int> transitionDic = new Dictionary<int, int>();
 
@@ -40,11 +40,6 @@ public class State:MonoBehaviour{
         transitionStateIDList.Add(_stateID);
     }
 
-
-    public virtual void CheckTransition()
-    {
- 
-    }
 
     public virtual void Enter() 
     {

@@ -24,7 +24,7 @@ public class KeyBoardControl : MonoBehaviour {
     void KeyBorardControl() 
     {
 
-        if (Input.anyKeyDown)
+        if (Input.anyKey)
         {
             if (Input.GetKeyDown(KeyCode.W))
             {
