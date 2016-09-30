@@ -5,7 +5,7 @@ public class GameCenter : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {
-	
+        UIMng.Instance.OpenUI(UIType.TestOne);
 	}
 	
 	// Update is called once per frame
