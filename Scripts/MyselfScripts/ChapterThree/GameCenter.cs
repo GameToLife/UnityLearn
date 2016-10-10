@@ -3,9 +3,17 @@ using System.Collections;
 
 public class GameCenter : MonoBehaviour {
 
+    public Camera uiCamera;
+    public Camera mainCamera;
+    public Boat boat;
+
+    public static GameCenter instance=null;
+
+
 	// Use this for initialization
 	void Start () {
-        UIMng.Instance.OpenUI(UIType.TestOne);
+        instance = this;
+        UIMng.Instance.OpenUI(UIType.RockerTouch);
 	}
 	
 	// Update is called once per frame

@@ -46,6 +46,9 @@ public class ResourcesMng : Singleton<ResourcesMng>
             case UIType.TestTwo:
                 stringBuilder.Append("TestTwo");
                 break;
+            case UIType.RockerTouch:
+                stringBuilder.Append("RockerTouch");
+                break;
             default:
                 break;
         }

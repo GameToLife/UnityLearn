@@ -23,6 +23,10 @@ public enum UIType
     None,
     TestOne,
     TestTwo,
+    /// <summary>
+    /// 摇杆
+    /// </summary>
+    RockerTouch,
 }
 
 #endregion

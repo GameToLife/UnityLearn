@@ -53,11 +53,13 @@ public class UIBase : MonoBehaviour {
 
     public void SetGameObj() 
     {
+        Obj.SetActive(true);
         UIAnchor uiAnchor = Obj.GetComponent<UIAnchor>();
-        if (uiAnchor==null)
+        if (uiAnchor == null)
         {
             Obj.AddComponent<UIAnchor>();
         }
+        
         Obj.transform.parent = ParentTransform;
         Obj.transform.localScale = Vector3.one;
         Obj.transform.localPosition = Vector3.zero;

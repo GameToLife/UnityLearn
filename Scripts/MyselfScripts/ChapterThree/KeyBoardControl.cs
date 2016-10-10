@@ -3,7 +3,9 @@ using System.Collections;
 
 public class KeyBoardControl : MonoBehaviour {
 
-    protected Transform targetControl;
+    protected Transform targetControl =null;
+    protected Vector3 directions;
+    protected Transform referenceObj =null;
 
 	// Use this for initialization
 	void Start () 
@@ -26,6 +28,11 @@ public class KeyBoardControl : MonoBehaviour {
 
         if (Input.anyKey)
         {
+            if (referenceObj ==null)
+            {
+                referenceObj = GameCenter.instance.mainCamera.transform;
+            }
+            directions = Vector2.zero;
             if (Input.GetKeyDown(KeyCode.W))
             {
                 GetWKeyDown();
@@ -42,12 +49,17 @@ public class KeyBoardControl : MonoBehaviour {
             {
                 GetDKeyDown();
             }
-
+            MoveDirection();
         }
         else 
         {
             NoKeyDown();
         }
+
+    }
+
+    protected virtual void MoveDirection() 
+    {
 
     }
 
@@ -59,21 +71,25 @@ public class KeyBoardControl : MonoBehaviour {
     protected virtual void GetWKeyDown() 
     {
       //  Debug.logger.Log("KeyCode.W");
+        directions += referenceObj.forward;
     }
 
     protected virtual void GetAKeyDown()
     {
      //   Debug.logger.Log("KeyCode.A");
+        directions -= referenceObj.forward;
     }
 
     protected virtual void GetSKeyDown()
     {
       //  Debug.logger.Log("KeyCode.S");
+        directions -= referenceObj.right;
     }
 
     protected virtual void GetDKeyDown()
     {
      //   Debug.logger.Log("KeyCode.D");
+        directions += referenceObj.right;
     }
 
     protected virtual void NoKeyDown() 

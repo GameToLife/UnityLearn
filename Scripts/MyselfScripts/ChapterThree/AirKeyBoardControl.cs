@@ -12,7 +12,11 @@ public class AirKeyBoardControl : KeyBoardControl {
         
     }
 
-  
+
+    protected override void MoveDirection()
+    {
+        
+    }
 
     protected override void ActionUpdate()
     {
