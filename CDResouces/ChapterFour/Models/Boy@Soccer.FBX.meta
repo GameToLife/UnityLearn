@@ -1,0 +1,485 @@
+fileFormatVersion: 2
+guid: ef5abea08c2f8654b8014eba7b25cba2
+timeCreated: 1437208226
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: gameloft_anm_test_man
+    100004: gameloft_anm_test_man 1
+    100006: gameloft_anm_test_man Footsteps
+    100008: gameloft_anm_test_man Head
+    100010: gameloft_anm_test_man HeadNub
+    100012: gameloft_anm_test_man L Calf
+    100014: gameloft_anm_test_man L Clavicle
+    100016: gameloft_anm_test_man L Finger0
+    100018: gameloft_anm_test_man L Finger0Nub
+    100020: gameloft_anm_test_man L Finger1
+    100022: gameloft_anm_test_man L Finger1Nub
+    100024: gameloft_anm_test_man L Foot
+    100026: gameloft_anm_test_man L Forearm
+    100028: gameloft_anm_test_man L Hand
+    100030: gameloft_anm_test_man L Thigh
+    100032: gameloft_anm_test_man L Toe0
+    100034: gameloft_anm_test_man L Toe0Nub
+    100036: gameloft_anm_test_man L UpperArm
+    100038: gameloft_anm_test_man Neck
+    100040: gameloft_anm_test_man Pelvis
+    100042: gameloft_anm_test_man R Calf
+    100044: gameloft_anm_test_man R Clavicle
+    100046: gameloft_anm_test_man R Finger0
+    100048: gameloft_anm_test_man R Finger0Nub
+    100050: gameloft_anm_test_man R Finger1
+    100052: gameloft_anm_test_man R Finger1Nub
+    100054: gameloft_anm_test_man R Foot
+    100056: gameloft_anm_test_man R Forearm
+    100058: gameloft_anm_test_man R Hand
+    100060: gameloft_anm_test_man R Thigh
+    100062: gameloft_anm_test_man R Toe0
+    100064: gameloft_anm_test_man R Toe0Nub
+    100066: gameloft_anm_test_man R UpperArm
+    100068: gameloft_anm_test_man Spine
+    100070: gameloft_anm_test_man Spine1
+    400000: //RootNode
+    400002: gameloft_anm_test_man
+    400004: gameloft_anm_test_man 1
+    400006: gameloft_anm_test_man Footsteps
+    400008: gameloft_anm_test_man Head
+    400010: gameloft_anm_test_man HeadNub
+    400012: gameloft_anm_test_man L Calf
+    400014: gameloft_anm_test_man L Clavicle
+    400016: gameloft_anm_test_man L Finger0
+    400018: gameloft_anm_test_man L Finger0Nub
+    400020: gameloft_anm_test_man L Finger1
+    400022: gameloft_anm_test_man L Finger1Nub
+    400024: gameloft_anm_test_man L Foot
+    400026: gameloft_anm_test_man L Forearm
+    400028: gameloft_anm_test_man L Hand
+    400030: gameloft_anm_test_man L Thigh
+    400032: gameloft_anm_test_man L Toe0
+    400034: gameloft_anm_test_man L Toe0Nub
+    400036: gameloft_anm_test_man L UpperArm
+    400038: gameloft_anm_test_man Neck
+    400040: gameloft_anm_test_man Pelvis
+    400042: gameloft_anm_test_man R Calf
+    400044: gameloft_anm_test_man R Clavicle
+    400046: gameloft_anm_test_man R Finger0
+    400048: gameloft_anm_test_man R Finger0Nub
+    400050: gameloft_anm_test_man R Finger1
+    400052: gameloft_anm_test_man R Finger1Nub
+    400054: gameloft_anm_test_man R Foot
+    400056: gameloft_anm_test_man R Forearm
+    400058: gameloft_anm_test_man R Hand
+    400060: gameloft_anm_test_man R Thigh
+    400062: gameloft_anm_test_man R Toe0
+    400064: gameloft_anm_test_man R Toe0Nub
+    400066: gameloft_anm_test_man R UpperArm
+    400068: gameloft_anm_test_man Spine
+    400070: gameloft_anm_test_man Spine1
+    4300000: gameloft_anm_test_man
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: gameloft_anm_test_man
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 3
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human:
+    - boneName: gameloft_anm_test_man Pelvis
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: gameloft_anm_test_man L Thigh
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: gameloft_anm_test_man R Thigh
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: gameloft_anm_test_man L Calf
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: gameloft_anm_test_man R Calf
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: gameloft_anm_test_man L Foot
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: gameloft_anm_test_man R Foot
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: gameloft_anm_test_man Spine1
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: gameloft_anm_test_man Neck
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: gameloft_anm_test_man Head
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: gameloft_anm_test_man L Clavicle
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: gameloft_anm_test_man R Clavicle
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: gameloft_anm_test_man L UpperArm
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: gameloft_anm_test_man R UpperArm
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: gameloft_anm_test_man L Forearm
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: gameloft_anm_test_man R Forearm
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: gameloft_anm_test_man L Hand
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: gameloft_anm_test_man R Hand
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: gameloft_anm_test_man L Toe0
+      humanName: LeftToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: gameloft_anm_test_man R Toe0
+      humanName: RightToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: Boy@Soccer(Clone)
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: gameloft_anm_test_man
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: -.707106829, y: 0, z: -0, w: .707106829}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: gameloft_anm_test_man 1
+      position: {x: -3.29690456, y: 1.0023998, z: .398736835}
+      rotation: {x: -.183775723, y: .681729496, z: .673525155, w: .218713}
+      scale: {x: 1.00000012, y: 1.00000012, z: .99999994}
+      transformModified: 1
+    - name: gameloft_anm_test_man Footsteps
+      position: {x: -.0440689065, y: -.0251936335, z: -.999213219}
+      rotation: {x: .024704393, y: .00580138015, z: .95830971, w: -.284602493}
+      scale: {x: .999999881, y: .999999881, z: .99999994}
+      transformModified: 1
+    - name: gameloft_anm_test_man Pelvis
+      position: {x: -2.54207897, y: -2.13414431, z: .218963712}
+      rotation: {x: -.205345601, y: .695096254, z: .19714126, w: .660158992}
+      scale: {x: .999999583, y: .999999881, z: .999999642}
+      transformModified: 1
+    - name: gameloft_anm_test_man Spine
+      position: {x: -.0993747711, y: -.000190734863, z: -7.93457002e-06}
+      rotation: {x: 2.04145886e-06, y: 0, z: 2.98023188e-08, w: -1}
+      scale: {x: 1.00000012, y: .999999881, z: .999999881}
+      transformModified: 1
+    - name: gameloft_anm_test_man L Thigh
+      position: {x: .0941671729, y: .0060110474, z: .106914364}
+      rotation: {x: .00664152205, y: .999959528, z: -.000425815582, w: .00606530905}
+      scale: {x: 1, y: 1.00000024, z: .99999994}
+      transformModified: 1
+    - name: gameloft_anm_test_man L Calf
+      position: {x: -.461603075, y: -3.05175774e-07, z: -1.52587887e-07}
+      rotation: {x: -2.80141808e-06, y: 2.08616228e-07, z: .0632169321, w: .997999787}
+      scale: {x: .99999994, y: 1, z: .999999642}
+      transformModified: 1
+    - name: gameloft_anm_test_man L Foot
+      position: {x: -.461603194, y: 1.52587887e-07, z: 1.52587887e-07}
+      rotation: {x: -3.99947166e-05, y: .00608003139, z: -.0698426217, w: .99753952}
+      scale: {x: .999999881, y: .999999762, z: 1.00000012}
+      transformModified: 1
+    - name: gameloft_anm_test_man L Toe0
+      position: {x: -.106168687, y: .136634678, z: 0}
+      rotation: {x: 4.47034722e-07, y: 4.05232612e-07, z: -.707106769, w: .707106709}
+      scale: {x: 1.00000012, y: 1.00000024, z: 1.00000012}
+      transformModified: 1
+    - name: gameloft_anm_test_man L Toe0Nub
+      position: {x: -.113186873, y: 9.53674295e-09, z: -3.05175774e-07}
+      rotation: {x: -3.64525432e-09, y: 9.31322575e-10, z: 1, w: 4.65661121e-10}
+      scale: {x: -1.00000012, y: -1, z: -1}
+      transformModified: 1
+    - name: gameloft_anm_test_man R Thigh
+      position: {x: .104313962, y: -.00257736212, z: -.0971745253}
+      rotation: {x: .00664152112, y: .999959469, z: .000428944768, w: -.00606553163}
+      scale: {x: 1.00000012, y: 1.00000036, z: 1}
+      transformModified: 1
+    - name: gameloft_anm_test_man R Calf
+      position: {x: -.461603075, y: 0, z: 0}
+      rotation: {x: 2.95042946e-06, y: -2.98023195e-07, z: .0632169321, w: .997999787}
+      scale: {x: 1.00000012, y: 1.00000012, z: 1.00000024}
+      transformModified: 1
+    - name: gameloft_anm_test_man R Foot
+      position: {x: -.461603314, y: 0, z: 1.52587887e-07}
+      rotation: {x: 4.02927399e-05, y: -.006080091, z: -.0698426068, w: .99753952}
+      scale: {x: 1, y: .999999523, z: .999999881}
+      transformModified: 1
+    - name: gameloft_anm_test_man R Toe0
+      position: {x: -.106168687, y: .136634976, z: 1.52587887e-07}
+      rotation: {x: 5.06639481e-07, y: 4.77094432e-07, z: -.707106829, w: .707106829}
+      scale: {x: .999999762, y: 1, z: 1.00000012}
+      transformModified: 1
+    - name: gameloft_anm_test_man R Toe0Nub
+      position: {x: -.113186643, y: 1.90734859e-08, z: 1.52587887e-07}
+      rotation: {x: 0, y: -2.03144754e-08, z: -0, w: 1}
+      scale: {x: .99999994, y: .99999994, z: 1}
+      transformModified: 1
+    - name: gameloft_anm_test_man Spine1
+      position: {x: -.240079269, y: -.000188140868, z: 3.05175774e-07}
+      rotation: {x: -2.98023188e-08, y: -2.98023188e-08, z: -1.49011594e-08, w: 1}
+      scale: {x: 1.00000012, y: 1.00000012, z: 1.00000024}
+      transformModified: 1
+    - name: gameloft_anm_test_man Neck
+      position: {x: -.242827371, y: -5.40161127e-05, z: -1.52587887e-07}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.00000036, y: 1.00000048, z: 1.00000024}
+      transformModified: 1
+    - name: gameloft_anm_test_man Head
+      position: {x: -.0692404956, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: .999999762, y: .999999642, z: .999999881}
+      transformModified: 1
+    - name: gameloft_anm_test_man HeadNub
+      position: {x: -.216953278, y: 0, z: 0}
+      rotation: {x: -2.31666526e-08, y: -5.58793545e-09, z: 7.4505806e-09, w: 1}
+      scale: {x: 1, y: .999999821, z: .99999994}
+      transformModified: 1
+    - name: gameloft_anm_test_man L Clavicle
+      position: {x: -7.62939436e-08, y: 5.49316392e-05, z: .0459020995}
+      rotation: {x: -.655431628, y: -9.79751348e-07, z: .755254626, w: 8.73580575e-07}
+      scale: {x: .999999821, y: .999999523, z: .999999762}
+      transformModified: 1
+    - name: gameloft_anm_test_man L UpperArm
+      position: {x: -.119846649, y: 0, z: -1.52587887e-07}
+      rotation: {x: .0520144179, y: .0361214168, z: -.0068027121, w: .997969687}
+      scale: {x: 1, y: .999999762, z: 1.00000024}
+      transformModified: 1
+    - name: gameloft_anm_test_man L Forearm
+      position: {x: -.28752625, y: 0, z: 1.52587887e-07}
+      rotation: {x: -.00209852844, y: .0209915545, z: .0479035676, w: .998629153}
+      scale: {x: .999999821, y: 1.00000048, z: 1}
+      transformModified: 1
+    - name: gameloft_anm_test_man L Hand
+      position: {x: -.289757371, y: -3.05175774e-07, z: 1.52587887e-07}
+      rotation: {x: .74342984, y: -.0519517884, z: -.0581442714, w: -.664253235}
+      scale: {x: 1.00000012, y: 1.00000024, z: 1}
+      transformModified: 1
+    - name: gameloft_anm_test_man L Finger0
+      position: {x: -.0434609987, y: .00279312138, z: -.0622413605}
+      rotation: {x: .417678356, y: -.367718279, z: .106019825, w: .82406795}
+      scale: {x: 1, y: .999999523, z: 1.00000024}
+      transformModified: 1
+    - name: gameloft_anm_test_man L Finger0Nub
+      position: {x: -.083499752, y: 0, z: 0}
+      rotation: {x: -1.49011612e-08, y: -1.11022316e-16, z: 7.45058149e-09, w: 1}
+      scale: {x: .99999994, y: 1, z: 1}
+      transformModified: 1
+    - name: gameloft_anm_test_man L Finger1
+      position: {x: -.115401305, y: -7.62939436e-08, z: -7.62939436e-08}
+      rotation: {x: -.000398128293, y: 0, z: 1.11758709e-08, w: .99999994}
+      scale: {x: 1.00000012, y: 1.00000024, z: 1.00000012}
+      transformModified: 1
+    - name: gameloft_anm_test_man L Finger1Nub
+      position: {x: -.100700073, y: -7.62939436e-08, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: .999999881, y: .99999994, z: .999999881}
+      transformModified: 1
+    - name: gameloft_anm_test_man R Clavicle
+      position: {x: 7.62939436e-08, y: 5.52368147e-05, z: -.0459019467}
+      rotation: {x: .655431628, y: -9.53674316e-07, z: .755254626, w: -9.23871994e-07}
+      scale: {x: .999999762, y: .999999642, z: .999999762}
+      transformModified: 1
+    - name: gameloft_anm_test_man R UpperArm
+      position: {x: -.119846649, y: -3.05175774e-07, z: -2.28881831e-07}
+      rotation: {x: .0525284708, y: .0328624621, z: .0219224598, w: -.997837782}
+      scale: {x: .999999881, y: .999999881, z: 1.00000048}
+      transformModified: 1
+    - name: gameloft_anm_test_man R Forearm
+      position: {x: -.28752616, y: 3.81469718e-08, z: 0}
+      rotation: {x: .00231611589, y: -.0231682416, z: .0415930785, w: .998863339}
+      scale: {x: 1, y: .99999994, z: .99999994}
+      transformModified: 1
+    - name: gameloft_anm_test_man R Hand
+      position: {x: -.289757162, y: 0, z: -6.10351549e-07}
+      rotation: {x: -.74342972, y: .051951848, z: -.0581442565, w: -.664253354}
+      scale: {x: .99999994, y: 1.00000012, z: 1.00000024}
+      transformModified: 1
+    - name: gameloft_anm_test_man R Finger0
+      position: {x: -.0434609987, y: .00279281614, z: .0622409061}
+      rotation: {x: -.417678237, y: .367718339, z: .106019795, w: .824067831}
+      scale: {x: 1.00000024, y: .999999702, z: .999999881}
+      transformModified: 1
+    - name: gameloft_anm_test_man R Finger0Nub
+      position: {x: -.083499752, y: 1.52587887e-07, z: 1.52587887e-07}
+      rotation: {x: 7.45057971e-09, y: -1.11022276e-16, z: 1, w: 1.49011594e-08}
+      scale: {x: -1.00000012, y: -1, z: -1}
+      transformModified: 1
+    - name: gameloft_anm_test_man R Finger1
+      position: {x: -.115401, y: -1.52587887e-07, z: -7.62939436e-08}
+      rotation: {x: .000398123637, y: -7.4505806e-09, z: -8.73114914e-09, w: .99999994}
+      scale: {x: .999999642, y: .999999642, z: 1.00000012}
+      transformModified: 1
+    - name: gameloft_anm_test_man R Finger1Nub
+      position: {x: -.100700684, y: 0, z: -7.62939436e-08}
+      rotation: {x: 1.31162236e-24, y: 2.14204192e-08, z: 1, w: 6.12323426e-17}
+      scale: {x: -1, y: -1, z: -1}
+      transformModified: 1
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 3
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
