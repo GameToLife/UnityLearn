@@ -6,6 +6,7 @@ public class GameCenter : MonoBehaviour {
     public Camera uiCamera;
     public Camera mainCamera;
     public Boat boat;
+    public Catch catchObj;
 
     public static GameCenter instance=null;
 
@@ -14,6 +15,7 @@ public class GameCenter : MonoBehaviour {
 	void Start () {
         instance = this;
         UIMng.Instance.OpenUI(UIType.RockerTouch);
+        UIMng.Instance.OpenUI(UIType.ClickUI);
 	}
 	
 	// Update is called once per frame

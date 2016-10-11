@@ -68,6 +68,15 @@ public class RockerTouch : UIBase {
         GameCenter.instance.boat.Move(direction);
       //  Vector3 mousePos = Input.mousePosition;
      //   Debug.Log(mousePos);
+        Catch();
+    }
+
+    /// <summary>
+    /// 抓取的监听
+    /// </summary>
+    void Catch() 
+    {
+        GameCenter.instance.catchObj.Move(direction);
     }
 
     void BackToInit() 

@@ -27,6 +27,10 @@ public enum UIType
     /// 摇杆
     /// </summary>
     RockerTouch,
+    /// <summary>
+    /// 按钮
+    /// </summary>
+    ClickUI,
 }
 
 #endregion
