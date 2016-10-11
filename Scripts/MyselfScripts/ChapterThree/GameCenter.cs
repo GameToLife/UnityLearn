@@ -7,6 +7,7 @@ public class GameCenter : MonoBehaviour {
     public Camera mainCamera;
     public Boat boat;
     public Catch catchObj;
+    public GameObject testRotation;
 
     public static GameCenter instance=null;
 
