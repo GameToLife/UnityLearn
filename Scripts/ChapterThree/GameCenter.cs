@@ -8,6 +8,7 @@ public class GameCenter : MonoBehaviour {
     public Boat boat;
     public Catch catchObj;
     public GameObject testRotation;
+    public MyCar myCar;
 
     public static GameCenter instance=null;
 

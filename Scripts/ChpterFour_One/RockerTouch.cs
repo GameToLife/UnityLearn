@@ -69,6 +69,7 @@ public class RockerTouch : UIBase {
       //  Vector3 mousePos = Input.mousePosition;
      //   Debug.Log(mousePos);
       //  Catch();
+        MyCar();
     }
 
     /// <summary>
@@ -77,6 +78,14 @@ public class RockerTouch : UIBase {
     void Catch() 
     {
         GameCenter.instance.catchObj.Move(direction);
+    }
+
+    /// <summary>
+    /// 汽车的监听
+    /// </summary>
+    void MyCar()
+    {
+        GameCenter.instance.myCar.Move(direction);
     }
 
     void BackToInit() 
