@@ -1,0 +1,178 @@
+fileFormatVersion: 2
+guid: 5e25dd39852983540b869d4c424c6fd0
+timeCreated: 1436604109
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Box30
+    100004: Box32
+    100006: Display 01
+    100008: Display 01 1
+    100010: Display 01 10
+    100012: Display 01 11
+    100014: Display 01 2
+    100016: Display 01 3
+    100018: Display 01 4
+    100020: Display 01 5
+    100022: Display 01 6
+    100024: Display 01 7
+    100026: Display 01 8
+    100028: Display 01 9
+    100030: Event 01
+    100032: Event 01 1
+    100034: Event 01 10
+    100036: Event 01 11
+    100038: Event 01 2
+    100040: Event 01 3
+    100042: Event 01 4
+    100044: Event 01 5
+    100046: Event 01 6
+    100048: Event 01 7
+    100050: Event 01 8
+    100052: Event 01 9
+    100054: Group09
+    100056: Line03
+    100058: Loft02
+    100060: Loft02_MeshPart0
+    100062: Loft02_MeshPart1
+    100064: Plane01
+    100066: Render 01
+    100068: Render 01 1
+    100070: Render 01 10
+    100072: Render 01 11
+    100074: Render 01 2
+    100076: Render 01 3
+    100078: Render 01 4
+    100080: Render 01 5
+    100082: Render 01 6
+    100084: Render 01 7
+    100086: Render 01 8
+    100088: Render 01 9
+    400000: //RootNode
+    400002: Box30
+    400004: Box32
+    400006: Display 01
+    400008: Display 01 1
+    400010: Display 01 10
+    400012: Display 01 11
+    400014: Display 01 2
+    400016: Display 01 3
+    400018: Display 01 4
+    400020: Display 01 5
+    400022: Display 01 6
+    400024: Display 01 7
+    400026: Display 01 8
+    400028: Display 01 9
+    400030: Event 01
+    400032: Event 01 1
+    400034: Event 01 10
+    400036: Event 01 11
+    400038: Event 01 2
+    400040: Event 01 3
+    400042: Event 01 4
+    400044: Event 01 5
+    400046: Event 01 6
+    400048: Event 01 7
+    400050: Event 01 8
+    400052: Event 01 9
+    400054: Group09
+    400056: Line03
+    400058: Loft02
+    400060: Loft02_MeshPart0
+    400062: Loft02_MeshPart1
+    400064: Plane01
+    400066: Render 01
+    400068: Render 01 1
+    400070: Render 01 10
+    400072: Render 01 11
+    400074: Render 01 2
+    400076: Render 01 3
+    400078: Render 01 4
+    400080: Render 01 5
+    400082: Render 01 6
+    400084: Render 01 7
+    400086: Render 01 8
+    400088: Render 01 9
+    2300000: Box30
+    2300002: Box32
+    2300004: Line03
+    2300006: Loft02_MeshPart0
+    2300008: Loft02_MeshPart1
+    2300010: Plane01
+    3300000: Box30
+    3300002: Box32
+    3300004: Line03
+    3300006: Loft02_MeshPart0
+    3300008: Loft02_MeshPart1
+    3300010: Plane01
+    4300000: Box30
+    4300002: Line03
+    4300004: Plane01
+    4300006: Box32
+    4300008: Loft02_MeshPart0
+    4300010: Loft02_MeshPart1
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

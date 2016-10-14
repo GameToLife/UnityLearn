@@ -1,0 +1,303 @@
+fileFormatVersion: 2
+guid: e96c7bae896a47742acb67d277133da6
+timeCreated: 1436600158
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Block:3333
+    100002: Block:3333 1
+    100004: Block:55
+    100006: Block:55 1
+    100008: Block:A$C1FE06456
+    100010: Block:A$C1FE06456 1
+    100012: Block:asdfsdaffff
+    100014: Block:asdfsdaffff 1
+    100016: Block:asdfsdaffff 2
+    100018: Block:asdfsdaffff 3
+    100020: Block:asdfsdaffff 4
+    100022: Block:asdfsdaffff 5
+    100024: Block:asdfsdaffff 6
+    100026: Block:asdfsdaffff 7
+    100028: Block:CHAIR3
+    100030: Block:dd454
+    100032: Block:DOOR_900
+    100034: Block:DOOR_900 1
+    100036: Block:DOOR_900 2
+    100038: Block:eeee74
+    100040: Block:eeee74 1
+    100042: Block:eeeeee
+    100044: Block:mq3
+    100046: Block:TV
+    100048: "Block:\u53F0\u706F"
+    100050: "Block:\u53F0\u706F 1"
+    100052: "Block:\u58C1  \u706F"
+    100054: "Block:\u58C1  \u706F 1"
+    100056: "Block:\u5E73\u9762\u706F-\u53F0\u706F"
+    100058: "Block:\u5E73\u9762\u706F-\u53F0\u706F 1"
+    100060: "Block:\u5E73\u9762\u706F-\u53F0\u706F 2"
+    100062: "Block:\u5E73\u9762\u706F-\u53F0\u706F 3"
+    100064: "Block:\u7535\u68AF1"
+    100066: "Block:\u7535\u68AF1 1"
+    100068: Group03
+    100070: Group05
+    100072: Group327
+    100074: Layer:0
+    100076: "Layer:01\u5E73\u9762--\u56FA\u5B9A\u5BB6\u5177"
+    100078: "Layer:01\u5E73\u9762--\u5E18"
+    100080: "Layer:01\u5E73\u9762--\u5E18 1"
+    100082: "Layer:01\u5E73\u9762--\u5E18 2"
+    100084: "Layer:01\u5E73\u9762--\u5E18 3"
+    100086: "Layer:01\u5E73\u9762--\u5E18 4"
+    100088: "Layer:01\u5E73\u9762--\u5E18 5"
+    100090: "Layer:01\u5E73\u9762--\u5E18 6"
+    100092: "Layer:01\u5E73\u9762--\u5E18 7"
+    100094: "Layer:01\u5E73\u9762--\u6D3B\u52A8\u5BB6\u5177"
+    100096: "Layer:01\u5E73\u9762--\u6D3B\u52A8\u5BB6\u5177 1"
+    100098: "Layer:01\u5E73\u9762--\u6D3B\u52A8\u5BB6\u5177 2"
+    100100: "Layer:01\u5E73\u9762--\u6D3B\u52A8\u5BB6\u5177 3"
+    100102: "Layer:01\u5E73\u9762--\u6D3B\u52A8\u5BB6\u5177 4"
+    100104: "Layer:01\u5E73\u9762--\u6D3B\u52A8\u5BB6\u5177 5"
+    100106: "Layer:01\u5E73\u9762--\u6D3B\u52A8\u5BB6\u5177 6"
+    100108: "Layer:01\u5E73\u9762--\u6D3B\u52A8\u5BB6\u5177 7"
+    100110: "Layer:01\u5E73\u9762--\u706F"
+    100112: "Layer:01\u5E73\u9762--\u706F 1"
+    100114: "Layer:01\u5E73\u9762--\u706F 10"
+    100116: "Layer:01\u5E73\u9762--\u706F 2"
+    100118: "Layer:01\u5E73\u9762--\u706F 3"
+    100120: "Layer:01\u5E73\u9762--\u706F 4"
+    100122: "Layer:01\u5E73\u9762--\u706F 5"
+    100124: "Layer:01\u5E73\u9762--\u706F 6"
+    100126: "Layer:01\u5E73\u9762--\u706F 7"
+    100128: "Layer:01\u5E73\u9762--\u706F 8"
+    100130: "Layer:01\u5E73\u9762--\u706F 9"
+    100132: "Layer:01\u5E73\u9762--\u95E8"
+    100134: "Layer:01\u5E73\u9762--\u95E8 1"
+    100136: "Layer:01\u5E73\u9762--\u95E8 2"
+    100138: "Layer:01\u5E73\u9762--\u95E8 3"
+    100140: "Layer:01\u5E73\u9762--\u95E8\u6846"
+    100142: "Layer:01\u5E73\u9762-\u4E0D\u5230\u9876\u9694\u5899"
+    100144: "Layer:01\u5E73\u9762-\u5899\u4F53\u9970\u9762-\u5929\u82B11"
+    100146: "Layer:01\u5E73\u9762-\u5899\u4F53\u9970\u9762-\u5929\u82B11 1"
+    100148: "Layer:01\u5E73\u9762-\u5899\u4F53\u9970\u9762-\u5929\u82B11 2"
+    100150: "Layer:09\u7ACB\u9762--\u5899\u4F53"
+    100152: "Layer:09\u7ACB\u9762--\u6750\u6599\u6CE8\u91CA"
+    100154: "Layer:09\u7ACB\u9762--\u88C5\u9970\u9762"
+    100156: "Layer:09\u7ACB\u9762--\u88C5\u9970\u9762 1"
+    100158: "Layer:09\u7ACB\u9762--\u88C5\u9970\u9762 2"
+    100160: "Layer:09\u7ACB\u9762--\u88C5\u9970\u9762 3"
+    100162: Layer:A-FLOR-BELW
+    100164: Layer:A-Stair
+    100166: Layer:A-Stair 1
+    100168: Layer:A-Stair 2
+    100170: Layer:A-Wall
+    100172: Layer:A-WALL-CRTN-GLAZ
+    100174: Layer:A-WALL-CRTN-GLAZ 1
+    100176: Layer:A-WALL-CRTN-MISC
+    100178: Layer:A-Window
+    100180: Layer:C1
+    100182: Layer:C2
+    100184: Layer:C8
+    100186: "Layer:T-\u5929\u82B1"
+    100188: "Layer:T-\u5929\u82B1\u6807\u6CE8"
+    100190: Layer:WALL-INT
+    100192: "Layer:WALL-\u5B9E\u5899"
+    100194: "Layer:\u63D2\u5EA7"
+    100196: "Layer:\u63D2\u5EA7 1"
+    100198: "Layer:\u697C\u68AF"
+    100200: "Layer:\u95E8\u7F16\u53F7"
+    100202: "Layer:\u9970\u54C1"
+    100204: Line61
+    100206: obj_02
+    100208: obj_02_MeshPart0
+    100210: obj_02_MeshPart1
+    100212: obj_02_MeshPart2
+    100214: Rectangle180
+    100216: //RootNode
+    400000: Block:3333
+    400002: Block:3333 1
+    400004: Block:55
+    400006: Block:55 1
+    400008: Block:A$C1FE06456
+    400010: Block:A$C1FE06456 1
+    400012: Block:asdfsdaffff
+    400014: Block:asdfsdaffff 1
+    400016: Block:asdfsdaffff 2
+    400018: Block:asdfsdaffff 3
+    400020: Block:asdfsdaffff 4
+    400022: Block:asdfsdaffff 5
+    400024: Block:asdfsdaffff 6
+    400026: Block:asdfsdaffff 7
+    400028: Block:CHAIR3
+    400030: Block:dd454
+    400032: Block:DOOR_900
+    400034: Block:DOOR_900 1
+    400036: Block:DOOR_900 2
+    400038: Block:eeee74
+    400040: Block:eeee74 1
+    400042: Block:eeeeee
+    400044: Block:mq3
+    400046: Block:TV
+    400048: "Block:\u53F0\u706F"
+    400050: "Block:\u53F0\u706F 1"
+    400052: "Block:\u58C1  \u706F"
+    400054: "Block:\u58C1  \u706F 1"
+    400056: "Block:\u5E73\u9762\u706F-\u53F0\u706F"
+    400058: "Block:\u5E73\u9762\u706F-\u53F0\u706F 1"
+    400060: "Block:\u5E73\u9762\u706F-\u53F0\u706F 2"
+    400062: "Block:\u5E73\u9762\u706F-\u53F0\u706F 3"
+    400064: "Block:\u7535\u68AF1"
+    400066: "Block:\u7535\u68AF1 1"
+    400068: Group03
+    400070: Group05
+    400072: Group327
+    400074: Layer:0
+    400076: "Layer:01\u5E73\u9762--\u56FA\u5B9A\u5BB6\u5177"
+    400078: "Layer:01\u5E73\u9762--\u5E18"
+    400080: "Layer:01\u5E73\u9762--\u5E18 1"
+    400082: "Layer:01\u5E73\u9762--\u5E18 2"
+    400084: "Layer:01\u5E73\u9762--\u5E18 3"
+    400086: "Layer:01\u5E73\u9762--\u5E18 4"
+    400088: "Layer:01\u5E73\u9762--\u5E18 5"
+    400090: "Layer:01\u5E73\u9762--\u5E18 6"
+    400092: "Layer:01\u5E73\u9762--\u5E18 7"
+    400094: "Layer:01\u5E73\u9762--\u6D3B\u52A8\u5BB6\u5177"
+    400096: "Layer:01\u5E73\u9762--\u6D3B\u52A8\u5BB6\u5177 1"
+    400098: "Layer:01\u5E73\u9762--\u6D3B\u52A8\u5BB6\u5177 2"
+    400100: "Layer:01\u5E73\u9762--\u6D3B\u52A8\u5BB6\u5177 3"
+    400102: "Layer:01\u5E73\u9762--\u6D3B\u52A8\u5BB6\u5177 4"
+    400104: "Layer:01\u5E73\u9762--\u6D3B\u52A8\u5BB6\u5177 5"
+    400106: "Layer:01\u5E73\u9762--\u6D3B\u52A8\u5BB6\u5177 6"
+    400108: "Layer:01\u5E73\u9762--\u6D3B\u52A8\u5BB6\u5177 7"
+    400110: "Layer:01\u5E73\u9762--\u706F"
+    400112: "Layer:01\u5E73\u9762--\u706F 1"
+    400114: "Layer:01\u5E73\u9762--\u706F 10"
+    400116: "Layer:01\u5E73\u9762--\u706F 2"
+    400118: "Layer:01\u5E73\u9762--\u706F 3"
+    400120: "Layer:01\u5E73\u9762--\u706F 4"
+    400122: "Layer:01\u5E73\u9762--\u706F 5"
+    400124: "Layer:01\u5E73\u9762--\u706F 6"
+    400126: "Layer:01\u5E73\u9762--\u706F 7"
+    400128: "Layer:01\u5E73\u9762--\u706F 8"
+    400130: "Layer:01\u5E73\u9762--\u706F 9"
+    400132: "Layer:01\u5E73\u9762--\u95E8"
+    400134: "Layer:01\u5E73\u9762--\u95E8 1"
+    400136: "Layer:01\u5E73\u9762--\u95E8 2"
+    400138: "Layer:01\u5E73\u9762--\u95E8 3"
+    400140: "Layer:01\u5E73\u9762--\u95E8\u6846"
+    400142: "Layer:01\u5E73\u9762-\u4E0D\u5230\u9876\u9694\u5899"
+    400144: "Layer:01\u5E73\u9762-\u5899\u4F53\u9970\u9762-\u5929\u82B11"
+    400146: "Layer:01\u5E73\u9762-\u5899\u4F53\u9970\u9762-\u5929\u82B11 1"
+    400148: "Layer:01\u5E73\u9762-\u5899\u4F53\u9970\u9762-\u5929\u82B11 2"
+    400150: "Layer:09\u7ACB\u9762--\u5899\u4F53"
+    400152: "Layer:09\u7ACB\u9762--\u6750\u6599\u6CE8\u91CA"
+    400154: "Layer:09\u7ACB\u9762--\u88C5\u9970\u9762"
+    400156: "Layer:09\u7ACB\u9762--\u88C5\u9970\u9762 1"
+    400158: "Layer:09\u7ACB\u9762--\u88C5\u9970\u9762 2"
+    400160: "Layer:09\u7ACB\u9762--\u88C5\u9970\u9762 3"
+    400162: Layer:A-FLOR-BELW
+    400164: Layer:A-Stair
+    400166: Layer:A-Stair 1
+    400168: Layer:A-Stair 2
+    400170: Layer:A-Wall
+    400172: Layer:A-WALL-CRTN-GLAZ
+    400174: Layer:A-WALL-CRTN-GLAZ 1
+    400176: Layer:A-WALL-CRTN-MISC
+    400178: Layer:A-Window
+    400180: Layer:C1
+    400182: Layer:C2
+    400184: Layer:C8
+    400186: "Layer:T-\u5929\u82B1"
+    400188: "Layer:T-\u5929\u82B1\u6807\u6CE8"
+    400190: Layer:WALL-INT
+    400192: "Layer:WALL-\u5B9E\u5899"
+    400194: "Layer:\u63D2\u5EA7"
+    400196: "Layer:\u63D2\u5EA7 1"
+    400198: "Layer:\u697C\u68AF"
+    400200: "Layer:\u95E8\u7F16\u53F7"
+    400202: "Layer:\u9970\u54C1"
+    400204: Line61
+    400206: obj_02
+    400208: obj_02_MeshPart0
+    400210: obj_02_MeshPart1
+    400212: obj_02_MeshPart2
+    400214: Rectangle180
+    400216: //RootNode
+    2300000: Line61
+    2300002: obj_02_MeshPart0
+    2300004: obj_02_MeshPart1
+    2300006: obj_02_MeshPart2
+    2300008: Rectangle180
+    3300000: Line61
+    3300002: obj_02_MeshPart0
+    3300004: obj_02_MeshPart1
+    3300006: obj_02_MeshPart2
+    3300008: Rectangle180
+    4300000: Rectangle180
+    4300002: Line61
+    4300004: obj_02_MeshPart0
+    4300006: obj_02_MeshPart1
+    4300008: obj_02_MeshPart2
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
