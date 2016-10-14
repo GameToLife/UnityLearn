@@ -69,7 +69,7 @@ public class RockerTouch : UIBase {
       //  Vector3 mousePos = Input.mousePosition;
      //   Debug.Log(mousePos);
       //  Catch();
-        MyCar();
+       // MyCar();
     }
 
     /// <summary>
